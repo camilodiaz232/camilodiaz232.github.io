@@ -13,7 +13,7 @@ Analista de operaciones con más de 6 años en Inteligencia de negocios (BI) y o
 
 # Proyectos
 
-## 1. Análisis de Cluster con Pyhton
+## 1. Análisis de Cluster con Python
 
 Analisis del uso de tarjetas de credito [link](https://github.com/camilodiaz232/cluster_tarjetaCredito/blob/main/main.ipynb){:target="_blank"}
 
