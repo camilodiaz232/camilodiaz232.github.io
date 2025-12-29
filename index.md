@@ -14,11 +14,12 @@ www.linkedin.com/in/diazpulgarcamiloandres
 # Proyectos
 
 ## Analisis de Cluste con Pyhton
-(/Users/kaminata/Documents/Desarrollos/camilodiaz232.github.io/cluster.png)
+![cluster](/Users/kaminata/Documents/Desarrollos/camilodiaz232.github.io/cluster.png)
+
 [Github: cluster_tarjetaCredito ](https://github.com/camilodiaz232/cluster_tarjetaCredito/blob/main/main.ipynb){:target="_blank"}
 
 
-# ESTUDIOS 
+# Estudios 
 
 **Ingeniería de Sistemas**
 Universidad EAN *(julio 2021 – pendiente acto de grado)*
@@ -39,7 +40,7 @@ Ean X *(enero 2023)*
 Universidad de la Sabana *(julio 2014 - octubre 2014)*
 
 
-# TECH SKILLS
+# Skills Tecnicos
 
 *   SQL Language
 *   Python – Data Analyst
