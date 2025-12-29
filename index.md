@@ -6,17 +6,18 @@ Analista de operaciones con más de 6 años en Inteligencia de negocios (BI) y o
 
 # Contacto
 
-+57 3105719796
-camilodiaz232@hotmail.com
-www.linkedin.com/in/diazpulgarcamiloandres
+* +57 3105719796
+* camilodiaz232@hotmail.com
+* www.linkedin.com/in/diazpulgarcamiloandres
 
 
 # Proyectos
 
 ## Analisis de Cluste con Pyhton
-![cluster](/Users/kaminata/Documents/Desarrollos/camilodiaz232.github.io/cluster.png)
 
-[Github: cluster_tarjetaCredito ](https://github.com/camilodiaz232/cluster_tarjetaCredito/blob/main/main.ipynb){:target="_blank"}
+<img src="./cluster.png" width="200" height="150" alt="Alt text">
+
+[link Github: cluster_tarjetaCredito ](https://github.com/camilodiaz232/cluster_tarjetaCredito/blob/main/main.ipynb){:target="_blank"}
 
 
 # Estudios 
