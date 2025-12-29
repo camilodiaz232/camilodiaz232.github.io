@@ -2,41 +2,41 @@
 layout: default
 ---
 
-Operations analyst with +6 years of experience in business intelligence (BI) and process optimization, with measurable results and achievements. With critical thinking skills to identify needs and opportunities within the business ecosystem. Knowledges of KPI implementation with experience in Power BI, Google Looker Studio, SQL, ETL with SSIS and Python. I am a professional committed to departmental objectives, a team player, creative and innovative in processes, and results-oriented.
+Analista de operaciones con más de 6 años en Inteligencia de negocios (BI) y optimización de procesos con resultados medibles y logros alcanzados. Con pensamiento crítico para reconocer las necesidades y oportunidades en el ecosistema empresarial. Conocimientos e implementación de indicadores (KPI) con experiencia en Power BI, Google Looker Studio, SQL, ETL en SSIS y Python. Soy un profesional comprometido con los objetivos de área, trabajo en equipo, creativo e innovador en procesos y orientado a los resultados.
 
-# CONTACT
+# Contacto
 
 +57 3105719796
 camilodiaz232@hotmail.com
 www.linkedin.com/in/diazpulgarcamiloandres
 
 
-# PROJECTS
+# Proyectos
 
 ## Analisis de Cluste con Pyhton
+(/Users/kaminata/Documents/Desarrollos/camilodiaz232.github.io/cluster.png)
+[Github: cluster_tarjetaCredito ](https://github.com/camilodiaz232/cluster_tarjetaCredito/blob/main/main.ipynb){:target="_blank"}
 
-[Link to another page](https://github.com/camilodiaz232/cluster_tarjetaCredito/blob/main/main.ipynb).
 
+# ESTUDIOS 
 
-# STUDIES 
+**Ingeniería de Sistemas**
+Universidad EAN *(julio 2021 – pendiente acto de grado)*
 
-**Systems Engineer**
-Universidad EAN *(Jul 2021 – graduation pending)*
+**Especialización de Gerencia Logística**
+Universidad La Sabana *(abril 2016 - agosto 2017)*
 
-**Specialization in Logistics Management**
-Universidad La Sabana *(Apr 2016 - Aug 2017)*
-
-**Specialization in Production and Operations**
-Universidad Sergio Arboleda *(Aug 2012 - Mar 2014)*
+**Especialización en Producción Y Operaciones**
+Universidad Sergio Arboleda *(agosto 2012 - marzo 2014)*
 
 **Data Analysis and Visualization**
-Talento Tech, Bootcamp 159 hr *(Oct 2024)*
+Talento Tech, Bootcamp 159 hr *(octubre 2024)*
 
-**Power BI Data Analyst Course**
-Ean X *(Jan 2023)*
+**Curso de Analista de Datos en Power BI**
+Ean X *(enero 2023)*
 
-**Diploma in Project Management**
-Universidad de la Sabana *(Jul 2014 - Oct 2014)*
+**Diplomado en Gerencia de Proyectos**
+Universidad de la Sabana *(julio 2014 - octubre 2014)*
 
 
 # TECH SKILLS
