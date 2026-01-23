@@ -22,7 +22,27 @@ Análisis del uso de tarjetas de crédito [link](https://github.com/camilodiaz23
 <img src="./cluster.png" width="400" height="300" alt="Alt text">
 
 
+## 2. Análisis de Contoso con SQL
 
+Respondiendo preguntas claves de las ventas de contoso con SQL [link](https://github.com/camilodiaz232/Analisis-SQL-en-Contoso){:target="_blank"}
+
+### *Top 10 Clientes con Mayor Incremento de Ventas*
+
+| Customer              | 2007        | 2008         | Increase_2008 | 2009       | Increase_2009 |
+|-----------------------|-------------|--------------|---------------|------------|---------------|
+| VersaillesCompany     | 344153.99   | 17590407.91  | 5011.20       | 22577.60   | -99.88        |
+| AlbanyCompany         | 2111.34     | 2444283.47   | 115669.46     | 4594.20    | -99.82        |
+| AlexandriaCompany     | 1486.21     | 2901824.22   | 195150.34     | 5231.75    | -99.82        |
+| AnchorageCompany      | 3970.80     | 3084246.19   | 77573.18      | 5807.11    | -99.82        |
+| GoulburnCompany       | 3442.46     | 13275476.99  | 385539.53     | 36221.02   | -99.73        |
+| Sabrina Sanz          | 21261.31    | 7686.89      | -63.85        | 23.80      | -99.70        |
+| Hailey Alexander      | 22950.18    | 7689.28      | -66.50        | 23.80      | -99.70        |
+| Lawrence Vazquez      | 26250.16    | 7580.05      | -71.13        | 23.80      | -99.69        |
+| Gabriel Parker        | 28364.19    | 7620.85      | -73.14        | 23.80      | -99.69        |
+| Kristopher Gonzalez   | 30430.99    | 7587.70      | -75.07        | 23.80      | -99.69        |
+
+
+---------------------------------------------------------
 
 # Estudios 
 
