@@ -56,10 +56,10 @@ Universidad La Sabana *(abril 2016 - agosto 2017)*
 Universidad Sergio Arboleda *(agosto 2012 - marzo 2014)*
 
 **Data Analysis and Visualization**
-Talento Tech, Bootcamp 159 hr *(octubre 2024)*
+Talento Tech, Bootcamp 159 hr *(octubre 2024)* [Certificado](https://certificados.talentotech.co/?cert=2387083045#pdf)
 
 **Curso de Analista de Datos en Power BI**
-Ean X *(enero 2023)*
+Ean X *(enero 2023)* [Certificado](https://app.certika.co/verify/certificate-code?code=0XTsEz9DRC)
 
 **Diplomado en Gerencia de Proyectos**
 Universidad de la Sabana *(julio 2014 - octubre 2014)*
