@@ -42,6 +42,10 @@ Respondiendo preguntas claves de las ventas de contoso con SQL [link](https://gi
 | Kristopher Gonzalez   | 30430.99    | 7587.70      | -75.07        | 23.80      | -99.69        |
 
 
+## 2. Análisis de Seguros Agricolas con PowerBI
+Este analisis se parte de una relacion de seguros agricolas de USDA, y esta disponible en:
+<iframe title="Agriculture Insurance DashBoard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNDUyNmViM2ItZmFiMy00MmZkLTllNWMtNjc5ZmIyODAwMmE0IiwidCI6ImMwNmZiNTU5LTFiNjgtNGI4NC1hMTRmLTQ3ZDBkODM3YTVhYiIsImMiOjR9&pageName=cba31ff6d76a65232e5f" frameborder="0" allowFullScreen="true"></iframe>
+
 ---------------------------------------------------------
 
 # Estudios 
