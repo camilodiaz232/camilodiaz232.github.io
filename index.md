@@ -17,9 +17,9 @@ Analista de operaciones con más de 6 años en Inteligencia de negocios (BI) y o
 
 Análisis del uso de tarjetas de crédito [link](https://github.com/camilodiaz232/cluster_tarjetaCredito/blob/main/main.ipynb){:target="_blank"}
 
-<img src="./mapa_calor.png" width="400" height="350" alt="Alt text">
-<img src="./grafica3D.png" width="400" height="300" alt="Alt text">
-<img src="./cluster.png" width="400" height="300" alt="Alt text">
+<img src="./assets/images/mapa_calor.png" width="400" height="350" alt="Alt text">
+<img src="./assets/images/grafica3D.png" width="400" height="300" alt="Alt text">
+<img src="./assets/images/cluster.png" width="400" height="300" alt="Alt text">
 
 
 ## 2. Análisis de Contoso con SQL
@@ -43,8 +43,10 @@ Respondiendo preguntas claves de las ventas de contoso con SQL [link](https://gi
 
 
 ## 2. Análisis de Seguros Agricolas con PowerBI
-Este analisis se parte de una relacion de seguros agricolas de USDA, y esta disponible en:
-<iframe title="Agriculture Insurance DashBoard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNDUyNmViM2ItZmFiMy00MmZkLTllNWMtNjc5ZmIyODAwMmE0IiwidCI6ImMwNmZiNTU5LTFiNjgtNGI4NC1hMTRmLTQ3ZDBkODM3YTVhYiIsImMiOjR9&pageName=cba31ff6d76a65232e5f" frameborder="0" allowFullScreen="true"></iframe>
+Este analisis se parte de una relacion de seguros agricolas de USDA, y esta disponible en [link](https://app.powerbi.com/view?r=eyJrIjoiNDUyNmViM2ItZmFiMy00MmZkLTllNWMtNjc5ZmIyODAwMmE0IiwidCI6ImMwNmZiNTU5LTFiNjgtNGI4NC1hMTRmLTQ3ZDBkODM3YTVhYiIsImMiOjR9&pageName=cba31ff6d76a65232e5f){:target="_blank"}
+
+<img src="./assets/images/BI Siniestros.png" width="600" height="300" alt="Alt text">
+<img src="./assets/images/BI Polizas Activas.png" width="600" height="300" alt="Alt text">
 
 ---------------------------------------------------------
 
