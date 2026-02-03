@@ -45,8 +45,8 @@ Respondiendo preguntas claves de las ventas de contoso con SQL [link](https://gi
 ## 2. Análisis de Seguros Agricolas con PowerBI
 Este analisis se parte de una relacion de seguros agricolas de USDA, y esta disponible en [link](https://app.powerbi.com/view?r=eyJrIjoiNDUyNmViM2ItZmFiMy00MmZkLTllNWMtNjc5ZmIyODAwMmE0IiwidCI6ImMwNmZiNTU5LTFiNjgtNGI4NC1hMTRmLTQ3ZDBkODM3YTVhYiIsImMiOjR9&pageName=cba31ff6d76a65232e5f){:target="_blank"}
 
-<img src="./assets/images/BI Siniestros.png" width="600" height="300" alt="Alt text">
-<img src="./assets/images/BI Polizas Activas.png" width="600" height="300" alt="Alt text">
+<img src="./assets/images/BI_Siniestros.png" width="600" height="300" alt="Alt text">
+<img src="./assets/images/BI_Polizas_Activas.png" width="600" height="300" alt="Alt text">
 
 ---------------------------------------------------------
 
