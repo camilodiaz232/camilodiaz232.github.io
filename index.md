@@ -53,7 +53,7 @@ Este analisis se parte de una relacion de seguros agricolas de USDA, y esta disp
 # Estudios 
 
 **Ingeniería de Sistemas**
-Universidad EAN *(julio 2021 – pendiente acto de grado)*
+Universidad EAN *(julio 2021 – marzo 2026)*
 
 **Especialización de Gerencia Logística**
 Universidad La Sabana *(abril 2016 - agosto 2017)*
