@@ -2,7 +2,11 @@
 layout: default
 ---
 
-Analista de operaciones con más de 6 años en Inteligencia de negocios (BI) y optimización de procesos con resultados medibles y logros alcanzados. Con pensamiento crítico para reconocer las necesidades y oportunidades en el ecosistema empresarial. Conocimientos e implementación de indicadores (KPI) con experiencia en Power BI, Google Looker Studio, SQL, ETL en SSIS y Python. Soy un profesional comprometido con los objetivos de área, trabajo en equipo, creativo e innovador en procesos y orientado a los resultados.
+Ingeniero de sistemas con experiencia en conectar las necesidades del negocio con soluciones de datos y analítica.  
+
+He trabajado por más de 6 años en la construcción de soluciones de BI de extremo a extremo, donde se han definido indicadores con los usuarios, identificado e integrado fuentes de información, transformado y cargado datos, estructurado bases de datos analíticas y desarrollado dashboards.  
+Cuento con conocimientos en SQL, procesos ETL, SSIS, AWS Glue, S3, Athena, Power BI y Looker Studio, así como el uso de Python en analítica de datos y automatización de tareas de integración y procesamiento de archivos y APIs.  
+Me interesa construir soluciones de analítica confiables, mantenibles y útiles para mejorar la toma de decisiones y la operación de las organizaciones. 
 
 # Contacto
 
